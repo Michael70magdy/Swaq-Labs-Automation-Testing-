@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <test name="FullTest">
+        <classes>
+            <class name="FullTest"/>
+            <class name="FullTest_POM.VerficationCases"/>
+
+        </classes>
+    </test>
+
+</suite>
