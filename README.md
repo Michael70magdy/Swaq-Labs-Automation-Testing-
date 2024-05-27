@@ -1,6 +1,6 @@
 Test Swaq Lab Website Using Selenium With Java Covering The following Test Cases 
 
-This automation task build by using TestNg, POM Design Pattern, Data Providers and Assertions
+This automation task was built by using TestNg, POM Design Pattern, Data Providers and Assertions
 
     1. Check if the username and password fields are on the main screen of the application:
         - Username input has id equal to user-name
