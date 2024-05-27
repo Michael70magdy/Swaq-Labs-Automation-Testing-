@@ -16,7 +16,6 @@ Test Swaq Lab Website Using Selenium With Java Covering The following Test Cases
           this service is visible.
 
     4. Check for empty credentials:
-        
         - After an unsuccessful login attempt, a div with class error-message-container error and
         containing a message Epic sadface: Username is required is visible.
         - After an unsuccessful login attempt, a div with class error-message-container error and
